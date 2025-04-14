@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Me chamo Giovanna 🌼</h2>
+<h2 align="left">Olá! Me chamo Giovanna 🌼</h2>
 
 ###
 
