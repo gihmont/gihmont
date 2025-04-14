@@ -1,7 +1,5 @@
 <h2 align="left">Olá! Me chamo Giovanna 🌼</h2>
 
-###
-
 <h2 align="left">Sobre mim:</h2>
 
 ###
